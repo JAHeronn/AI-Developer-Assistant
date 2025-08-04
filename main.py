@@ -1,3 +1,7 @@
+# MIT License
+# Copyright (c) 2025 Joseph Heron
+# See the LICENSE file in the root directory for full license text.
+
 from openai import OpenAI
 import base64
 import json
