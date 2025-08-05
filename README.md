@@ -1,3 +1,16 @@
+---
+title: AI Developer Assistant
+emoji: 🧠
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 5.39.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: Upload screenshots of code errors and get debugging help
+---
+
 # AI Developer Assistant – Screenshot Debugging with GPT-4o
 
 A multimodal AI assistant that analyses screenshots of coding errors and provides structured, actionable debugging help.
