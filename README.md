@@ -6,7 +6,7 @@ A multimodal AI assistant that analyses screenshots of coding errors and provide
 
 ## Live Demo
 
-- Try it on Hugging Face Spaces - https://huggingface.co/spaces/JAHeronn/Multimodal-AI-Developer-Assistant 
+- Try it on Hugging Face Spaces - https://huggingface.co/spaces/JAHeronn/AI-Developer-Assistant
 - Uses your own OpenAI API key (kept 100% in-browser)
 
 ---
